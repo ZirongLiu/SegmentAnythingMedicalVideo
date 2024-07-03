@@ -5,6 +5,8 @@ We I have developed a script capable of tracking, object detection, and segmenta
 
 Here is a video demonstration:
 
+[test01Clipchamp_output_all2.webm](https://github.com/ZirongLiu/SegmentAnythingMedicalVideo/assets/88203748/fcb03fca-fea2-478f-8022-42e94e04d66b)
+
 <video width="600" controls>
   <source src="video/test01Clipchamp_output_all2.webm" type="video/webm">
   Your browser does not support the video tag.
