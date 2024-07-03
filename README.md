@@ -1,5 +1,8 @@
 # Segment Anything Medical Video
-We I have developed a script capable of tracking, object detection, and segmentation in videos. By simply modifying the prompts, it can adapt to various applications, such as tracking surgical instruments. This script is based on the Tracking Anything with DEVA project and leverages advanced deep learning techniques to achieve efficient and accurate object tracking and segmentation.
+I found a script capable of tracking, object detection, and segmentation in videos. By simply modifying the prompts, it can adapt to various applications, such as tracking surgical instruments. This script is based on the [Tracking Anything with DEVA](https://hkchengrex.com/Tracking-Anything-with-DEVA/) project and leverages advanced deep learning techniques to achieve efficient and accurate object tracking and segmentation.
+
+The project can be accessed [here](https://colab.research.google.com/drive/1OsyNVoV_7ETD1zIE8UWxL3NXxu12m_YZ?usp=sharing). Using the script is very simple: you only need to provide the corresponding descriptive words in the "CLASSES" section under "Specifying all the inputs and output directory."
+
 
 # Video Demo
 
